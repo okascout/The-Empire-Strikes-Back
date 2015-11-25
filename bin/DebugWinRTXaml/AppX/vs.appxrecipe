@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>400T-43430</Machine>
+    <WindowsUser>tabletuser</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>54A264B3C76A254003E810385751F5DAF1058D8325AE3084F25A156177409C90</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3_1.0.0.0_neutral__2xgss9s9ewh1t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3_2xgss9s9ewh1t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Home</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\bin\DebugWinRTXaml\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-18T07:24:18.633</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\bin\DebugWinRTXaml\Project.WinRTXaml.exe">
+      <PackagePath>Project.WinRTXaml.exe</PackagePath>
+      <Modified>2015-10-18T07:24:18.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.D3DCompiler.dll">
+      <PackagePath>SharpDX.D3DCompiler.dll</PackagePath>
+      <Modified>2015-10-11T07:54:48.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2015-10-11T07:54:48.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2015-10-11T07:54:48.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2015-10-11T07:54:48.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2015-10-11T07:54:48.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2015-10-11T07:54:48.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.Toolkit.Audio.dll">
+      <PackagePath>SharpDX.Toolkit.Audio.dll</PackagePath>
+      <Modified>2015-10-11T07:54:48.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.Toolkit.dll">
+      <PackagePath>SharpDX.Toolkit.dll</PackagePath>
+      <Modified>2015-10-11T07:54:48.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.Toolkit.Game.dll">
+      <PackagePath>SharpDX.Toolkit.Game.dll</PackagePath>
+      <Modified>2015-10-11T07:54:49.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.Toolkit.Graphics.dll">
+      <PackagePath>SharpDX.Toolkit.Graphics.dll</PackagePath>
+      <Modified>2015-10-11T07:54:49.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.Toolkit.Input.dll">
+      <PackagePath>SharpDX.Toolkit.Input.dll</PackagePath>
+      <Modified>2015-10-11T07:54:49.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.Toolkit.Yaml.dll">
+      <PackagePath>SharpDX.Toolkit.Yaml.dll</PackagePath>
+      <Modified>2015-10-11T07:54:49.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2015-10-11T07:54:49.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\SharpDX\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2015-10-11T07:54:49.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T07:54:47.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T07:54:47.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T07:54:47.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-11T07:54:47.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\Content\crosshair.png">
+      <PackagePath>Content\crosshair.png</PackagePath>
+      <Modified>2015-10-13T13:24:34.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\Content\enemy projectile.png">
+      <PackagePath>Content\enemy projectile.png</PackagePath>
+      <Modified>2015-10-11T07:54:48.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\Content\enemy.png">
+      <PackagePath>Content\enemy.png</PackagePath>
+      <Modified>2015-10-11T07:54:48.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\Content\player projectile.png">
+      <PackagePath>Content\player projectile.png</PackagePath>
+      <Modified>2015-10-11T07:54:48.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\Content\player.png">
+      <PackagePath>Content\player.png</PackagePath>
+      <Modified>2015-10-11T07:54:48.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\obj\Debug\Content\Gouraud.tkb">
+      <PackagePath>Content\Gouraud.tkb</PackagePath>
+      <Modified>2015-10-11T08:16:36.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\obj\Debug\Content\Phong.tkb">
+      <PackagePath>Content\Phong.tkb</PackagePath>
+      <Modified>2015-10-11T08:16:36.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\obj\Debug\Content\Arial16.tkb">
+      <PackagePath>Content\Arial16.tkb</PackagePath>
+      <Modified>2015-10-16T07:51:12.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\obj\Debug\Content\Car.tkb">
+      <PackagePath>Content\Car.tkb</PackagePath>
+      <Modified>2015-10-11T08:16:36.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\obj\Debug\Content\Xwing.tkb">
+      <PackagePath>Content\Xwing.tkb</PackagePath>
+      <Modified>2015-10-13T05:16:31.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\obj\Debug\Content\cannon.tkb">
+      <PackagePath>Content\cannon.tkb</PackagePath>
+      <Modified>2015-10-13T05:47:58.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\obj\Debug\Content\Sphere.tkb">
+      <PackagePath>Content\Sphere.tkb</PackagePath>
+      <Modified>2015-10-16T06:08:53.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\obj\Debug\Content\asteroid.tkb">
+      <PackagePath>Content\asteroid.tkb</PackagePath>
+      <Modified>2015-10-18T03:45:50.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\bin\DebugWinRTXaml\Project.WinRTXaml.xr.xml">
+      <PackagePath>Project.WinRTXaml.xr.xml</PackagePath>
+      <Modified>2015-10-11T05:16:48.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\bin\DebugWinRTXaml\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-10-11T08:16:39.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\bin\DebugWinRTXaml\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2015-10-11T08:16:39.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\bin\DebugWinRTXaml\MainMenu.xbf">
+      <PackagePath>MainMenu.xbf</PackagePath>
+      <Modified>2015-10-11T08:16:39.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\bin\DebugWinRTXaml\Instructions.xbf">
+      <PackagePath>Instructions.xbf</PackagePath>
+      <Modified>2015-10-11T08:16:39.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\bin\DebugWinRTXaml\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-10-11T08:16:39.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tabletuser\Documents\Unimelb\Graphics and Interaction\Project 2\Project 2 Framework\bin\DebugWinRTXaml\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-18T07:24:18.586</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
